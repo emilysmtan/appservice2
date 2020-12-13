@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'emilysm'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_82ca90f17e1b42b98d24057a7e7329d8 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_9abcea3f901d4cbfaa4d3332c87a88e8 }}
